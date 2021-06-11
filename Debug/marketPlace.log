@@ -1,0 +1,11 @@
+﻿  Customer.cpp
+C:\Users\DELL\Desktop\marketPlace\marketPlace\marketPlace\Customer.cpp(15,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\DELL\Desktop\marketPlace\marketPlace\marketPlace\Customer.cpp(35,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\DELL\Desktop\marketPlace\marketPlace\marketPlace\Customer.cpp(36,21): warning C4018: '<': signed/unsigned mismatch
+  Person.cpp
+  Product.cpp
+  Seller.cpp
+  main.cpp
+C:\Users\DELL\Desktop\marketPlace\marketPlace\marketPlace\main.cpp(36,22): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  marketPlace.vcxproj -> C:\Users\DELL\Desktop\marketPlace\marketPlace\Debug\marketPlace.exe
